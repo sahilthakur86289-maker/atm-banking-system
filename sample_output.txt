@@ -1,0 +1,60 @@
+Create Your Bank Account
+Enter account holder name: Rahul
+Set your 4 digit PIN: 1234
+Enter starting balance: 5000
+Account created successfully.
+
+Welcome to Simple ATM
+Account Holder: Rahul
+Enter your 4 digit PIN: 1234
+Login successful.
+
+----- ATM Menu -----
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Transaction History
+5. Exit
+Enter your choice: 1
+Enter amount to deposit: 1000
+Amount deposited successfully.
+
+----- ATM Menu -----
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Transaction History
+5. Exit
+Enter your choice: 2
+Enter amount to withdraw: 500
+Amount withdrawn successfully.
+
+----- ATM Menu -----
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Transaction History
+5. Exit
+Enter your choice: 3
+Current Balance: Rs. 5500
+
+----- ATM Menu -----
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Transaction History
+5. Exit
+Enter your choice: 4
+
+Transaction History
+- Deposited Rs. 1000
+- Withdrawn Rs. 500
+
+----- ATM Menu -----
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Transaction History
+5. Exit
+Enter your choice: 5
+Thank you for using ATM.
